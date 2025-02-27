@@ -2,3 +2,4 @@ pwd- print working dir
 mkdir- make direcory
 rm -rf -removes directories and files
 touch - creates a file
+rmdir - removes directories
